@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsingh365&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingh365" /> </p>
 
-- 🌱 I’m currently learning **C, C++, CSS**
+- 🌱 I’m currently learning **Front-End Web Development**
 
 - 📫 How to reach me **sraj08188@gmail.com**
 
